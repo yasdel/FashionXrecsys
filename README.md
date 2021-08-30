@@ -1,2 +1,2 @@
-# -fashionXrecsys
+# fashionXrecsys
 Fashion Recommender Systems
