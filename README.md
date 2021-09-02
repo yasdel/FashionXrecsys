@@ -3,12 +3,14 @@ Fashion Recommender Systems
 ## Item recommendation systems
 | Year  | Authors | Title       |Venue  |Content|Code | Dataset |
 |------|-------|-------|------|------|---------------|-------|
+|2019| Lu Sun et al.|[Personalized clothing recommendation combining user social circle and fashion style consistency]()|CiHB| U-I interaction, style | | 
 |2018|Agarwal et al.|[Personalizing Similar Product Recommendations in Fashion E-commerce](http://arxiv.org/abs/1806.11371)|CORR|User feedback||[Link](www.myntra.com/)|
 |2018|Hwangbo et al.|[Recommendation system development for fashion retail e-commerce](https://www.sciencedirect.com/science/article/abs/pii/S1567422318300152?via%3Dihub)|J.ECRA||||
 |2018| Zhou et al.| [Fashion Sensitive Clothing Recommendation Using Hierarchical Collocation Model](https://doi.org/10.1145/3240508.3240596)| ACM MM| Deep visual features| | [Link](www.taobao.com) [Link](www.jd.com)
 |2018| Jagadeesh et al.| [Large scale visual recommendations from street fashion images](https://doi.org/10.1145/2623330.2623332)| KDD| Item features | | 
 |2018| Qian et al.|[Algorithmic clothing: hybrid recommendation, from street-style-to-shop.](https://arxiv.org/pdf/1705.09451.pdf)| CORR| Item features| 
 |2017| Yin et al.| [Enhancing Fashion Recommendation with Visual Compatibility Relationship](https://doi.org/10.1145/3308558.3313739)|WWW|U-I Interaction||[Link](www.taobao.com) [Link](wwww.amazon.com) 
+|2017|Zhao et al.|[Deep Style Match for Complementary Recommendation](http://arxiv.org/abs/1708.07938)|CORR| Item features | | [Link](www.taobao.com) [Link](wwww.amazon.com) 
 |2015|Bracher et al.|[Fashion DNA: Merging Content and Sales Data for Recommendation and Article Mapping](https://arxiv.org/abs/1609.02489)| CORR| Item features ||[Link](www.zalando.com) 
 |2015|Heintz et al.|[An LSTM-Based Dynamic Customer Model for Fashion Recommendation](https://arxiv.org/abs/1708.07347)| CEUR| Item features ||[Link](www.zalando.com) 
 |2015|Cheng Kang et al.|[Visually-Aware Fashion Recommendation and Design with Generative Image Models](http://arxiv.org/abs/1711.02231)| ICDM | User feedback |[Link](https://github.com/kang205/DVBPR)| [Link](www.amazon.com) [Link](www.Tradesy.com) |
@@ -20,6 +22,7 @@ Fashion Recommender Systems
 |------|-------|-------|------|---------------|------|-------|
 |2020| Tangseng et al.| [Toward Explainable Fashion Recommendation](http://arxiv.org/abs/1901.04870)|CVPR| Item features| 
 |2018| Hu et al.| [Collaborative Fashion Recommendation: A Functional Tensor Factorization Approach](https://doi.org/10.1145/2733373.2806239) | ACM MM| U-I interactions||[Link](www.polyvore.com)
+|2018| McAuley et al.| [Image-Based Recommendations on Styles and Substitutes](http://arxiv.org/abs/1506.04757)|CORR|Item features|[Link](https://cseweb.ucsd.edu//~jmcauley/)|
 |2017| Jaradat | [Deep Cross-Domain Fashion Recommendation](https://doi.org/10.1145/3109859.3109861) | RecSys| Social Network || [Link](www.instagram.com) [Link](www.zalando.com)
 |2017| Yin et al.| [Improving Outfit Recommendation with Co-supervision of Fashion Generation](https://doi.org/10.1145/3308558.3313614) |WWW| Deep visual features | 
 |2014|Chen et al.|[POG: Personalized Outfit Generation for Fashion Recommendation at Alibaba iFashion](http://arxiv.org/abs/1905.01866)|KDD|||[Link](https://github.com/wenyuer/POG)|
