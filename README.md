@@ -32,7 +32,7 @@ Fashion Recommender Systems
 | Year  | Authors | Title       |Venue | Task  | Content |Code | Dataset | 
 |------|-------|-------|------|-----------|-------|---------------|-------|
 |2018| Cardoso et al.| [Product Characterisation towards Personalisation: Learning Attributes from Unstructured Data to Recommend Fashion Products.](https://doi.org/10.1145/3219819.3219888)|KDD| Attributes prediction| Item features|
-|2018| Liu et al.| [Learning Discrete Hashing Towards Efficient Fashion Recommendation](https://doi.org/10.1007/s41019-018-0079-z)| J DS&E |Attributes prediction| Item features | | [Link](www.farfetch.com/au) [Link](www.mytheresa.com/en-au) 
-|2018| Zhang et al.| [Fashion Evaluation Method for Clothing Recommendation Based on Weak Appearance Feature](https://doi.org/10.1155/2017/8093057)| J SP | Size | Weak appareance features| 
+|2018| Liu et al.| [Learning Discrete Hashing Towards Efficient Fashion Recommendation](https://doi.org/10.1007/s41019-018-0079-z)| JDS&E |Attributes prediction| Item features | | [Link](www.farfetch.com/au) [Link](www.mytheresa.com/en-au) 
+|2018| Zhang et al.| [Fashion Evaluation Method for Clothing Recommendation Based on Weak Appearance Feature](https://doi.org/10.1155/2017/8093057)| JSP | Size | Weak appareance features| 
 |2017|Abdulla et al.|[Shop your Right Size: A System for Recommending Sizes for Fashion products](https://doi.org/10.1145/3308560.3316599)|WWW|Size|User features|
 |2017|Guigourès et al.|[A hierarchical bayesian model for size recommendation in fashion](https://doi.org/10.1145/3240323.3240388)| RecSys| Size||||
