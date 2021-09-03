@@ -36,3 +36,11 @@ Fashion Recommender Systems
 |2018| Zhang et al.| [Fashion Evaluation Method for Clothing Recommendation Based on Weak Appearance Feature](https://doi.org/10.1155/2017/8093057)| JSP | Size | Weak appareance features| 
 |2017|Abdulla et al.|[Shop your Right Size: A System for Recommending Sizes for Fashion products](https://doi.org/10.1145/3308560.3316599)|WWW|Size|User features|
 |2017|Guigourès et al.|[A hierarchical bayesian model for size recommendation in fashion](https://doi.org/10.1145/3240323.3240388)| RecSys| Size||||
+
+## Authors:
+* Yashar Deldjoo <deldjooy@acm.org> , <yashar.deldjoo@poliba.it>
+
+
+The site was maintened by:
+* Yashar Deldjoo <deldjooy@acm.org> , <yashar.deldjoo@poliba.it>
+* Giovanni Pellegrini <giovanni.pellegrini97@gmail.com>
