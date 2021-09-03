@@ -20,18 +20,25 @@ Fashion Recommender Systems
 
 | Year  | Authors | Title       |Venue  |Content |Code | Dataset |
 |------|-------|-------|------|---------------|------|-------|
-|2020| Tangseng et al.| [Toward Explainable Fashion Recommendation](http://arxiv.org/abs/1901.04870)|CVPR| Item features| 
+|2020| Tangseng et al.| [Toward Explainable Fashion Recommendation](http://arxiv.org/abs/1901.04870)|CVPR|Item features| 
+|2019|Polania et al.|[Learning fashion compatibility across apparel categories for outfit recommendation](http://arxiv.org/abs/1905.03703)|ICIP||[Link](www.polyvore.com)|
 |2018| Hu et al.| [Collaborative Fashion Recommendation: A Functional Tensor Factorization Approach](https://doi.org/10.1145/2733373.2806239) | ACM MM| U-I interactions||[Link](www.polyvore.com)
+|2018|He et al.|[FashionNet: Personalized Outfit Recommendation with Deep Neural Network](http://arxiv.org/abs/1810.02443)|CORR||[Link](www.polyvore.com)|
 |2018| McAuley et al.| [Image-Based Recommendations on Styles and Substitutes](http://arxiv.org/abs/1506.04757)|CORR|Item features|[Link](https://cseweb.ucsd.edu//~jmcauley/)|
 |2017| Jaradat | [Deep Cross-Domain Fashion Recommendation](https://doi.org/10.1145/3109859.3109861) | RecSys| Social Network || [Link](www.instagram.com) [Link](www.zalando.com)
 |2017| Yin et al.| [Improving Outfit Recommendation with Co-supervision of Fashion Generation](https://doi.org/10.1145/3308558.3313614) |WWW| Deep visual features | 
+|2015||[Explainable Fashion Recommendation with Joint Outfit Matching and Comment Generation](http://arxiv.org/abs/1806.08977)|TKDE|Deep Visual Features
 |2014|Chen et al.|[POG: Personalized Outfit Generation for Fashion Recommendation at Alibaba iFashion](http://arxiv.org/abs/1905.01866)|KDD|||[Link](https://github.com/wenyuer/POG)|
+
 
 
 ## Other recommendation systems
 | Year  | Authors | Title       |Venue | Task  | Content |Code | Dataset | 
 |------|-------|-------|------|-----------|-------|---------------|-------|
+|2019|Yu Pan et al.|[Furniture style compatibility recommendation with cross-class triplet loss](https://doi.org/10.1007/s11042-018-5747-5)|MTAP|Style compatibility|
+|2019|Yong Chung et al.|[Effect of facial makeup style recommendation on visual sensibility](https://doi.org/10.1007/s11042-013-1355-6)|MTAP|Facial makeup style|
 |2018| Cardoso et al.| [Product Characterisation towards Personalisation: Learning Attributes from Unstructured Data to Recommend Fashion Products.](https://doi.org/10.1145/3219819.3219888)|KDD| Attributes prediction| Item features|
+|2018| Kang et al.| [SVM and Collaborative Filtering-Based Prediction of User Preference for Digital Fashion Recommendation Systems]()|T.IEICE|User preferences predicitcion|
 |2018| Liu et al.| [Learning Discrete Hashing Towards Efficient Fashion Recommendation](https://doi.org/10.1007/s41019-018-0079-z)| JDS&E |Attributes prediction| Item features | | [Link](www.farfetch.com/au) [Link](www.mytheresa.com/en-au) 
 |2018| Zhang et al.| [Fashion Evaluation Method for Clothing Recommendation Based on Weak Appearance Feature](https://doi.org/10.1155/2017/8093057)| JSP | Size | Weak appareance features| 
 |2017|Abdulla et al.|[Shop your Right Size: A System for Recommending Sizes for Fashion products](https://doi.org/10.1145/3308560.3316599)|WWW|Size|User features|
