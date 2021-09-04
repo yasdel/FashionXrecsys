@@ -33,7 +33,7 @@ The advent of online sites for the sale of fashion items and the consequent incr
 |2018| McAuley et al.| [Image-Based Recommendations on Styles and Substitutes](http://arxiv.org/abs/1506.04757)|CORR|Item features|[Link](https://cseweb.ucsd.edu//~jmcauley/)|
 |2017| Jaradat | [Deep Cross-Domain Fashion Recommendation](https://doi.org/10.1145/3109859.3109861) | RecSys| Social Network || [Link](www.instagram.com) [Link](www.zalando.com)
 |2017| Yin et al.| [Improving Outfit Recommendation with Co-supervision of Fashion Generation](https://doi.org/10.1145/3308558.3313614) |WWW| Deep visual features | 
-|2015||[Explainable Fashion Recommendation with Joint Outfit Matching and Comment Generation](http://arxiv.org/abs/1806.08977)|TKDE|Deep Visual Features
+|2015|Lin et al.|[Explainable Fashion Recommendation with Joint Outfit Matching and Comment Generation](http://arxiv.org/abs/1806.08977)|TKDE|Deep Visual Features
 |2014|Chen et al.|[POG: Personalized Outfit Generation for Fashion Recommendation at Alibaba iFashion](http://arxiv.org/abs/1905.01866)|KDD|||[Link](https://github.com/wenyuer/POG)|
 
 
