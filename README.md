@@ -1,6 +1,12 @@
 # fashionXrecsys
 Fashion Recommender Systems
-## Item recommendation systems
+
+The advent of online sites for the sale of fashion items and the consequent increase in users who benefit from them, has led in recent years to the development of more and more efficient recommendation systems for fashion. On this page, the articles related to this area have been and will be collected, divided into 3 tables based on their task: 
+* item recommandation
+* outfit recommandation 
+* other recommendation (size, attribute prediction, style consistency, etc.)
+## Papers
+### Item recommendation systems
 | Year  | Authors | Title       |Venue  |Content|Code | Dataset |
 |------|-------|-------|------|------|---------------|-------|
 |2019| Lu Sun et al.|[Personalized clothing recommendation combining user social circle and fashion style consistency]()|CiHB| U-I interaction, style | | 
@@ -16,7 +22,7 @@ Fashion Recommender Systems
 |2015|Cheng Kang et al.|[Visually-Aware Fashion Recommendation and Design with Generative Image Models](http://arxiv.org/abs/1711.02231)| ICDM | User feedback |[Link](https://github.com/kang205/DVBPR)| [Link](www.amazon.com) [Link](www.Tradesy.com) |
 
 
-## Outfit recommendation systems
+### Outfit recommendation systems
 
 | Year  | Authors | Title       |Venue  |Content |Code | Dataset |
 |------|-------|-------|------|---------------|------|-------|
@@ -32,7 +38,7 @@ Fashion Recommender Systems
 
 
 
-## Other recommendation systems
+### Other recommendation systems
 | Year  | Authors | Title       |Venue | Task  | Content |Code | Dataset | 
 |------|-------|-------|------|-----------|-------|---------------|-------|
 |2019|Yu Pan et al.|[Furniture style compatibility recommendation with cross-class triplet loss](https://doi.org/10.1007/s11042-018-5747-5)|MTAP|Style compatibility|
