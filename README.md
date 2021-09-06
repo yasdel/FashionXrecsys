@@ -41,6 +41,7 @@ The advent of online sites for the sale of fashion items and the consequent incr
 ### Other recommendation systems
 | Year  | Authors | Title       |Venue | Task  | Content |Code | Dataset | 
 |------|-------|-------|------|-----------|-------|---------------|-------|
+|2019|He et al.|[Learning to Style-Aware Bayesian Personalized Ranking for Visual Recommendation](https://doi.org/10.1109/ACCESS.2019.2892984)|J. IEEE ACCESS| Style compatibility|U-I interactions||[Link](www.amazon.com) [Link](www.Tradesy.com)
 |2019|Yu Pan et al.|[Furniture style compatibility recommendation with cross-class triplet loss](https://doi.org/10.1007/s11042-018-5747-5)|MTAP|Style compatibility|
 |2019|Yong Chung et al.|[Effect of facial makeup style recommendation on visual sensibility](https://doi.org/10.1007/s11042-013-1355-6)|MTAP|Facial makeup style|
 |2018| Cardoso et al.| [Product Characterisation towards Personalisation: Learning Attributes from Unstructured Data to Recommend Fashion Products.](https://doi.org/10.1145/3219819.3219888)|KDD| Attributes prediction| Item features|
