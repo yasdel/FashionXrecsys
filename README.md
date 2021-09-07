@@ -59,7 +59,7 @@ The advent of online sites for the sale of fashion items and the consequent incr
 * Alejandro Bellogin <alejandro.bellogin@uam.es>
 * Tommaso di Noia <tommaso.dinoia@poliba.it>
 
-Please contact the corresponing author Yashar Deldjoo for queries, comments and questions. 
+Please contact the corresponing author **Yashar Deldjoo** for queries, comments and questions. 
 
 The site was maintened by:
 * Yashar Deldjoo <deldjooy@acm.org> , <yashar.deldjoo@poliba.it>
