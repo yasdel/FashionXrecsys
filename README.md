@@ -53,7 +53,13 @@ The advent of online sites for the sale of fashion items and the consequent incr
 
 ## Authors:
 * Yashar Deldjoo <deldjooy@acm.org> , <yashar.deldjoo@poliba.it>
+* Fatemeh Nazary <fatemeh.nazary@poliba.it>
+* Arnau Ramisa <arnauramisa@gmail.com>
+* Julian Mcauley <jmcauley@eng.ucsd.edu>
+* Alejandro Bellogin <alejandro.bellogin@uam.es>
+* Tommaso di Noia <tommaso.dinoia@poliba.it>
 
+Please contact the corresponing author Yashar Deldjoo for queries, comments and questions. 
 
 The site was maintened by:
 * Yashar Deldjoo <deldjooy@acm.org> , <yashar.deldjoo@poliba.it>
