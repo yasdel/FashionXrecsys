@@ -9,6 +9,7 @@ The advent of online sites for the sale of fashion items and the consequent incr
 ### Item recommendation systems
 | Year  | Authors | Title       |Venue  |Content|Code | Dataset |
 |------|-------|-------|------|------|---------------|-------|
+|2020| Meichen et al.| [Design and realization of a collocation recommendation system for women's clothing](http://www.fzxb.org.cn/EN/10.13475/j.fzxb.20191200510)|Fangzhi Xuebao/Journal of Textile Research|
 |2019| Lu Sun et al.|[Personalized clothing recommendation combining user social circle and fashion style consistency]()|CiHB| U-I interaction, style | | 
 |2018|Agarwal et al.|[Personalizing Similar Product Recommendations in Fashion E-commerce](http://arxiv.org/abs/1806.11371)|CORR|User feedback||[Link](www.myntra.com/)|
 |2018|Hwangbo et al.|[Recommendation system development for fashion retail e-commerce](https://www.sciencedirect.com/science/article/abs/pii/S1567422318300152?via%3Dihub)|J.ECRA||||
@@ -26,6 +27,8 @@ The advent of online sites for the sale of fashion items and the consequent incr
 
 | Year  | Authors | Title       |Venue  |Content |Code | Dataset |
 |------|-------|-------|------|---------------|------|-------|
+|2020| Adewumi et al.| [A Unified Framework for Outfit Design and Advice](https://link.springer.com/chapter/10.1007/978-981-13-9364-8_3)|  Advances in Intelligent Systems and Computing|
+|2020| Prato et al.| [Outfit completion and clothes recommendation](https://dl.acm.org/doi/10.1145/3334480.3383076)|CHI|
 |2020| Tangseng et al.| [Toward Explainable Fashion Recommendation](http://arxiv.org/abs/1901.04870)|CVPR|Item features| 
 |2019|Polania et al.|[Learning fashion compatibility across apparel categories for outfit recommendation](http://arxiv.org/abs/1905.03703)|ICIP||[Link](www.polyvore.com)|
 |2018| Hu et al.| [Collaborative Fashion Recommendation: A Functional Tensor Factorization Approach](https://doi.org/10.1145/2733373.2806239) | ACM MM| U-I interactions||[Link](www.polyvore.com)
@@ -41,6 +44,7 @@ The advent of online sites for the sale of fashion items and the consequent incr
 ### Other recommendation systems
 | Year  | Authors | Title       |Venue | Task  | Content |Code | Dataset | 
 |------|-------|-------|------|-----------|-------|---------------|-------|
+|2020|Brand et al.|[Paying the Pink Tax on a Blue Dress - Exploring  Gender-Based Price-Premiums in Fashion Recommendations](https://link.springer.com/chapter/10.1007%2F978-3-030-64266-2_12)|HCSE| Gender-price|||[Link](wwww.amazon.com)
 |2019|He et al.|[Learning to Style-Aware Bayesian Personalized Ranking for Visual Recommendation](https://doi.org/10.1109/ACCESS.2019.2892984)|J. IEEE ACCESS| Style compatibility|U-I interactions||[Link](www.amazon.com) [Link](www.Tradesy.com)
 |2019|Yu Pan et al.|[Furniture style compatibility recommendation with cross-class triplet loss](https://doi.org/10.1007/s11042-018-5747-5)|MTAP|Style compatibility|
 |2019|Yong Chung et al.|[Effect of facial makeup style recommendation on visual sensibility](https://doi.org/10.1007/s11042-013-1355-6)|MTAP|Facial makeup style|
