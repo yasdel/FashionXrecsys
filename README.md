@@ -30,6 +30,7 @@ The advent of online sites for the sale of fashion items and the consequent incr
 | Year  | Authors | Title       |Venue  |Content |Code | Dataset |
 |------|-------|-------|------|---------------|------|-------|
 |2021|Zhan et al.|[A3-FKG: Attentive Attribute-Aware Fashion Knowledge Graph for Outfit Preference Prediction](https://ieeexplore.ieee.org/document/9354945/)| IEEE Transactions on Multimedia | U-I Interaction| 
+|2020|Banerjee et al.|[BOXREC: Recommending a Box of Preferred Outfits in Online Shopping](https://dl.acm.org/doi/10.1145/3408890)|ACM Transactions on Intelligent Systems and Technology|U-I features|[Link](https://github.com/debobanerjee/BOXREC)|[Link](wwww.amazon.com) [Link](www.myntra.com/)
 |2020|Li et al.| [Hierarchical Fashion Graph Network for Personalized Outfit Recommendation](https://zjuchenlong.github.io/papers/SIGIR_2020.pdf)|SIGIR|
 |2020| Sridevi et al.| [Personalized fashion recommender system with image based neural networks](https://iopscience.iop.org/article/10.1088/1757-899X/981/2/022073/meta)|IOP Conference Series: Materials Science and Engineering| Deep visual feature  | 
 |2020| Adewumi et al.| [A Unified Framework for Outfit Design and Advice](https://link.springer.com/chapter/10.1007/978-981-13-9364-8_3)|  Advances in Intelligent Systems and Computing|
