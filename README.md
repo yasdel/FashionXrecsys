@@ -10,8 +10,9 @@ The advent of online sites for the sale of fashion items and the consequent incr
 | Year  | Authors | Title       |Venue  |Content|Code | Dataset |
 |------|-------|-------|------|------|---------------|-------|
 |2021|Yu et al.|[Visually aware recommendation with aesthetic features](https://link.springer.com/article/10.1007%2Fs00778-021-00651-y)|VLDB Journal| Temporal/item information||[Link](wwww.amazon.com)
-|2020|Li et al.|[Bootstrapping Complete the Look at Pinterest](https://dl.acm.org/doi/abs/10.1145/3394486.3403382)|SIGKDD|||[Link](www.polyvore.com)
+|2020|Li et al.|[Bootstrapping Complete the Look at Pinterest](https://dl.acm.org/doi/abs/10.1145/3394486.3403382)|SIGKDD|Style||[Link](www.polyvore.com)
 |2020| Meichen et al.| [Design and realization of a collocation recommendation system for women's clothing](http://www.fzxb.org.cn/EN/10.13475/j.fzxb.20191200510)|Fangzhi Xuebao/Journal of Textile Research|
+|2020|Dong et al.|[An interactive knowledge-based recommender system for fashion product design in the big data environment](https://www.sciencedirect.com/science/article/pii/S0020025520304278)|Information Sciences|Item/body features
 |2019| Lu Sun et al.|[Personalized clothing recommendation combining user social circle and fashion style consistency]()|CiHB| U-I interaction, style | | 
 |2018|Agarwal et al.|[Personalizing Similar Product Recommendations in Fashion E-commerce](http://arxiv.org/abs/1806.11371)|CORR|User feedback||[Link](www.myntra.com/)|
 |2018|Hwangbo et al.|[Recommendation system development for fashion retail e-commerce](https://www.sciencedirect.com/science/article/abs/pii/S1567422318300152?via%3Dihub)|J.ECRA||||
@@ -33,7 +34,7 @@ The advent of online sites for the sale of fashion items and the consequent incr
 |2020|Banerjee et al.|[BOXREC: Recommending a Box of Preferred Outfits in Online Shopping](https://dl.acm.org/doi/10.1145/3408890)|ACM Transactions on Intelligent Systems and Technology|U-I features|[Link](https://github.com/debobanerjee/BOXREC)|[Link](wwww.amazon.com) [Link](www.myntra.com/)
 |2020|Li et al.| [Hierarchical Fashion Graph Network for Personalized Outfit Recommendation](https://zjuchenlong.github.io/papers/SIGIR_2020.pdf)|SIGIR|
 |2020| Sridevi et al.| [Personalized fashion recommender system with image based neural networks](https://iopscience.iop.org/article/10.1088/1757-899X/981/2/022073/meta)|IOP Conference Series: Materials Science and Engineering| Deep visual feature  | 
-|2020| Adewumi et al.| [A Unified Framework for Outfit Design and Advice](https://link.springer.com/chapter/10.1007/978-981-13-9364-8_3)|  Advances in Intelligent Systems and Computing|
+|2020| Adewumi et al.| [A Unified Framework for Outfit Design and Advice](https://link.springer.com/chapter/10.1007/978-981-13-9364-8_3)|  Advances in Intelligent Systems and Computing| Item-weather features|
 |2020| Prato et al.| [Outfit completion and clothes recommendation](https://dl.acm.org/doi/10.1145/3334480.3383076)|CHI|
 |2020| Tangseng et al.| [Toward Explainable Fashion Recommendation](http://arxiv.org/abs/1901.04870)|CVPR|Item features| 
 |2019|Polania et al.|[Learning fashion compatibility across apparel categories for outfit recommendation](http://arxiv.org/abs/1905.03703)|ICIP||[Link](www.polyvore.com)|
@@ -49,6 +50,7 @@ The advent of online sites for the sale of fashion items and the consequent incr
 ### Other recommendation systems
 | Year  | Authors | Title       |Venue | Task  | Content |Code | Dataset | 
 |------|-------|-------|------|-----------|-------|---------------|-------|
+|2021|Hidayati et al.|[Dress with Style: Learning Style from Joint Deep Embedding of Clothing Styles and Body Shapes](https://ieeexplore.ieee.org/document/9034172)|IEEE Transactions on Multimedia|Size|Item style-Body features|
 |2020|Wölbitsch et al. | [Mind the Gap: Exploring Shopping Preferences Across Fashion Retail Channels](https://dl.acm.org/doi/abs/10.1145/3340631.3394866)| UMAP| Shopping preferences| 
 |2020|Hao et al.|ClothNet: A neural network based recommender system|FSDM|Ranking item| Temporal/user information | | [Link](wwww.amazon.com)
 |2020|Brand et al.|[Paying the Pink Tax on a Blue Dress - Exploring  Gender-Based Price-Premiums in Fashion Recommendations](https://link.springer.com/chapter/10.1007%2F978-3-030-64266-2_12)|HCSE| Gender-price|||[Link](wwww.amazon.com)
